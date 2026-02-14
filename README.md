@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pious
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eli
 =============================================================================================================================
 
-Web developer
+ Developing Developer
 -------------
 
 Learning to code!
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [elikemkota@gmail.com](mailto:elikemkota@gmail.com )
-* 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on JS projects
+* 🧠  I'm learning CyberSecurity
+* 🤝  I'm open to collaborating on projects
 * ⚡  I turn off the light cus bugs are scared of the dark!
 
 <a href="https://www.github.com/onlypious" target="_blank" rel="noreferrer"><img
